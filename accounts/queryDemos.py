@@ -1,4 +1,4 @@
-#**(1)Returns all customers from customer table
+#***(1)Returns all customers from customer table
 customers = Customer.objects.all()
 
 #(2)Returns first customer in table
